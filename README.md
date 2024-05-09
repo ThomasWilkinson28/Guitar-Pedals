@@ -1,1 +1,2 @@
 # Guitar-Pedals
+The only pedal I have completed entirely so far is the Guvnor. Schematics, breaboard layout, and final design can all be found in its respective folder. I have started working on the Big Muff Pi, however, I'm still only at the breadboard/prototyping stage (will be updating it's progress here in due time), and I have done some research on the Pro Co Rat and very excited to start working on it but I told myself I have to wait until I finish the Big Muff.
