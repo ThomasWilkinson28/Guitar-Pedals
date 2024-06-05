@@ -1,6 +1,4 @@
-# Guitar-Pedals
-
-## So far I have completed five pedals: 
+# So far I have completed five pedals: 
 ### 1. An emulation of the Marshall Guvnor.
 ### 2. An emulation of Electro Harmonic's Big Muff Pi.
 ### 3. A clone of the Dyna Compressor by MXR. 
